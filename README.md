@@ -5,7 +5,7 @@
 ## 🧭 Personal Statement
 
 Aspiring economist with strong interests in public and development economics, inequality studies, and econometrics.  
-Experienced in **Stata**, **R**, and **LaTeX**, with research experience in optimal taxation and income inequality.  
+Experienced in **Stata**, **R**, **Matlab**, and **LaTeX**, with research experience in optimal taxation and income inequality.  
 Passionate about **data-driven solutions** that impact real-world policy.
 
 ---
