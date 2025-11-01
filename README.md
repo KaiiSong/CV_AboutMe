@@ -1,6 +1,6 @@
 # Kai Song
 
-📍 Canberra, Australia | ✉️ [kaisong2503@gmail.com](mailto:kaisong2503@gmail.com) | [github.com/KaiiSong](https://github.com/KaiiSong)
+📍 Canberra, Australia | ✉️ [kaisong2503@gmail.com](mailto:kaisong2503@gmail.com) | [GitHub](https://github.com/KaiiSong) | [Linkedin](https://www.linkedin.com/in/kai-song-046b32215/)
 
 ---
 
